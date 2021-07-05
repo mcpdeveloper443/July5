@@ -1,3 +1,9 @@
 this is file1 conetenre changes new
 
 new changes  by dev 
+
+mehtid1
+
+mehtod2
+
+mehtod3
